@@ -16,10 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kamaljangi74354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kamaljangi74354" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kamal975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kamal975" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kamaljangir795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kamaljangir795" height="30" width="40" /></a>
-<a href="https://leetcode.com/kamal_kumar123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamal_kumar123/" height="30" width="40" /></a>
+<a href="https:https://www.kaggle.com/saugandhdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saugandhdeshmukh" height="30" width="40" /></a>
+<a href="https:[//www.hackerrank.com/profile/scd972002](https://www.hackerrank.com/profile/scd972002)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https:https://www.hackerrank.com/profile/scd972002" height="30" width="40" /></a>
+<a href="https:https://leetcode.com/u/saugandh-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https:https://leetcode.com/u/saugandh-tech/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamaljangir1&show_icons=true&locale=en" alt="kamaljangir1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaljangir1&" alt="kamaljangir1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugandh Deshmukh" alt="its-saugandh" /></p>
